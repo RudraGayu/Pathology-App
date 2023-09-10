@@ -1,4 +1,7 @@
-CREATE TABLE customer (
-  id INT PRIMARY KEY,
-  name VARCHAR(50)
-);
+--CREATE DATABASE omg1
+--
+--USE omg;
+--CREATE TABLE Patients (
+--  id INT(6) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
+--  String VARCHAR(500) NOT NULL
+--);
