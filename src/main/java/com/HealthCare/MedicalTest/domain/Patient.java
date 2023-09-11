@@ -19,6 +19,7 @@ public class Patient {
 
     @Id
     private String id = UUID.randomUUID().toString();
+    private String userName;
     private String name;
     private int age;
     private String gender;
