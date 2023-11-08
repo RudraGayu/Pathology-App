@@ -31,13 +31,11 @@ The Pathology App is a comprehensive web application designed to streamline and 
         Patients can leave reviews and feedback about hospitals and their services.
 12. Emergency Services Locator:
         An integrated map with GPS functionality for locating nearby emergency services and hospitals.
-13. Telemedicine Integration:
-        Offer telemedicine services for consultation with healthcare professionals.
-14. Multi-language Support:
+13. Multi-language Support:
         Make the app accessible to a wider audience by offering multiple language options.
-15. Security and Privacy:
+14. Security and Privacy:
         Implement robust security measures to protect patient data, including encryption and compliance with healthcare data protection regulations.
-16. Chat Support:
+15. Chat Support:
         Provide a chat support feature for users to ask questions or seek assistance.
 
 # Benefits
